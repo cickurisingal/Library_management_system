@@ -1,1 +1,1 @@
-# Library_management_system
+The library management system is a project which aims in developing a computerized system to maintain all the daily work of the library. The backend is designed using MySQL to maintain and retrieve records by simple queries. HTML, CSS, and JavaScript are used for designing the page and PHP is used for server-side scripting. ER diagram is used to understand the system design and tables are used to gather and organize the data.
